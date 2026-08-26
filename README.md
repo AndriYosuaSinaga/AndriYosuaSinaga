@@ -1,6 +1,12 @@
 # 💫 About Me:
 halo nama saya Andri saya seorang programer Artificial Inteligence dan seorang data engginer
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndriYosuaSinaga/AndriYosuaSinaga/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndriYosuaSinaga/AndriYosuaSinaga/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndriYosuaSinaga/AndriYosuaSinaga/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andzze.xvll) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/andze992) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@reayjhh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@andze-s2w) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andze992@gmail.com) 
