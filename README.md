@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an artificial intiligence programmer
+halo nama saya Andri saya seorang programer Artificial Inteligence dan seorang data engginer
 
 
 ## 🌐 Socials:
